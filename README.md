@@ -4,6 +4,10 @@
 (https://github.com/AbdulRahmanAlHamali/flutter_typeahead)
 (https://pub.dev/packages/flutter_typeahead)
 
-![点选](https://github.com/taihangg/city_picker/blob/master/screenshot/Screenshot_2019-11-19-08-13-14.png)
+---
 
-![搜索](https://github.com/taihangg/city_picker/blob/master/screenshot/Screenshot_2019-11-19-08-12-52.png)
+截图效果：
+
+![点选](https://github.com/taihangg/city_picker/blob/master/screenshot/Screenshot_2019-11-19-08-12-52.png)
+
+![搜索](https://github.com/taihangg/city_picker/blob/master/screenshot/Screenshot_2019-11-19-08-13-14.png)
