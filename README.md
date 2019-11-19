@@ -1,16 +1,9 @@
-# city_picker
+做天气预报的功能时，需要获取城市code，用typeahead做了个选择城市的小插件，可以点选，也可以搜索。勉强能用。
 
-A new Flutter application.
+需要自己下载typeahead包
+(https://github.com/AbdulRahmanAlHamali/flutter_typeahead)
+(https://pub.dev/packages/flutter_typeahead)
 
-## Getting Started
+![点选](https://github.com/taihangg/city_picker/blob/master/screenshot/Screenshot_2019-11-19-08-13-14.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![搜索](https://github.com/taihangg/city_picker/blob/master/screenshot/Screenshot_2019-11-19-08-12-52.png)
